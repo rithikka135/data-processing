@@ -1,0 +1,13 @@
+# Data Preprocessing
+pandas==2.1.0
+numpy==1.27.0
+scikit-learn==1.3.0
+
+# Kafka for Producer/Consumer
+kafka-python==2.1.0
+
+# Spark for Streaming and In-Memory Processing
+pyspark==3.5.0
+
+# Optional: For better performance and JSON handling
+python-dateutil==2.9.2
